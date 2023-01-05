@@ -4,7 +4,7 @@
 "survey_content": "",  
 "survey_type": "",  
 "survey_link": "",  
-"left_menu_image":"https://i.imgur.com/7BIRu4g.png",  
+"left_menu_image":"https://pbs.twimg.com/profile_banners/1431692734058926082/1630391026/1500x500",  
 "lite_mode":false,
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
@@ -12,7 +12,7 @@
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
-"update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
+"update_content":"You cant update if you are using modded version. Please use official version on our homepage(VancedFlix.com) to support developer.
 <br></br>
 <b>Release Info</b>
 <br>- Version: 3.3.9</br>
@@ -38,7 +38,7 @@
 "ads_priority":"amazon",
 "text_link":"",
 "text_content":"",
-"text_title":"Fun game",
+"text_title":"",
 "text_type":"link",
 "text_id":"71446",
 "custom_fullads_photo":"https://i.imgur.com/FpMvTE0.png",
@@ -56,8 +56,8 @@
 "downloader_name":"One Downloader",
 "enable_install_player":true,
 "enable_download_adm":true,
-"title_player":"Titan Video Player",
-"description_player":"Best player to work with BeeTV. Less ads and better streaming!",
+"title_player":"VIPlayer Video Player",
+"description_player":"Best player to work with VanCedFlix For better streaming!",
 "link_download_player":"https://github.com/stevemckain2233/dsadas/releases/download/1.4.6x/1.4.6x.apk",
 "package_name_player":"com.titanx.videoplayerz",
 "package_name_player_new":"com.nx.video.player",
@@ -86,7 +86,7 @@
 "banner_text":"",
 "enable_admob_inter":true,
 "enable_admob_banner":false,
-"unt_game_id":"5091417",
+"unt_game_id":"3966759",
 "amz_ads_key":"c03f38429b0045deba32f73996233ecf",
 "amz_ads_key_261":"e939cccb-eb11-4a30-8d99-15d2f8a57af2",
 "priorirty_custom_ads":false,
@@ -94,7 +94,7 @@
 "mixdrop_domain":"mixdrop.co",
 "site_cookie":"https://series9.me,https://www.putlockers.ro",
 "site_cookie_test":"https://series9.me,https://www.putlockers.ro",
-"iron_enable":"0",
+"iron_enable":"1",
 "olgply_enable":true,
 "look_cookie":"",
 "look_domain_api":"https://lookmovie2.to",
